@@ -24,3 +24,5 @@ POP3 port 110 → SSL/TLS → POP3S port 995
 IMAP port 143 → SSL/TLS → IMAPS port 993
 
 🚨 The purpose of SSL/TLS encryption is for data in transit to prevent eavesdropping and Man In the Middle attacks where a data packet can be intercepted by a threat actor. 
+
+![image alt](https://github.com/DMayrant/Certificate-Manager/blob/main/Certficate%20Manager.jpeg?raw=true)
